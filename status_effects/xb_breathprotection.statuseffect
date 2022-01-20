@@ -1,0 +1,6 @@
+{
+  "name" : "xb_breathprotection",
+  "effectConfig" : {"stats" : ["breathprotection"]},
+
+  "scripts" : ["/scripts/protection.lua"]
+}
