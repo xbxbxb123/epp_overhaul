@@ -1,6 +1,6 @@
 {
   "name" : "xb_breathprotection",
-  "effectConfig" : {"stats" : ["breathProtection"]},
+  "effectConfig" : {"stats" : ["biomeradiationImmunity"]},
 
   "scripts" : ["/scripts/protection.lua"]
 }

@@ -1,0 +1,17 @@
+{
+  "animatedParts" : {
+    "parts" : {
+      "implant" : {
+        "properties" : {
+          "centered" : true,
+          "offset" : [0, 0],
+          "image" : "implantinhand.png"
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "stimuse" : []
+  }
+}

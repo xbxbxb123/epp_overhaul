@@ -1,0 +1,19 @@
+{
+  "itemName" : "heatingimplant",
+  "rarity" : "Uncommon",
+  "category" : "Other",
+  "maxStack" : 1,
+  "inventoryIcon" : "heatingimplant.png",
+  "image" : "implantinhand.png",
+
+  "shortdescription" : "Reactor Implant",
+  "description" : "A miniature nuclear reactor designed to heat the user, protecting from ^red;freezing environments^reset;",
+
+  "scripts" : ["/scripts/persistient_protector.lua"],
+  "useTime" : 0.5,
+  "effects" : ["xb_coldprotection"],
+  "animation" : "implant.animation",
+
+  "unlockMessage" : "You are now resistant to freezing environments."
+}
+ 

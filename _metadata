@@ -1,0 +1,10 @@
+{
+  "author" : "Ben",
+  "description" : "An overhaul of the EPP system and other related systems like augments and back items. May also include a replacement for the jump techs by adding flight via wings and jetpack back items in the future.",
+  "friendlyName" : "EPP Overhaul",
+  "link" : "",
+  "name" : "Expandable Ship DX",
+  "steamContentId" : "",
+  "tags" : "User Interface|Character Improvements|In-Game Tools|Armor and Clothes",
+  "version" : "1.0"
+}

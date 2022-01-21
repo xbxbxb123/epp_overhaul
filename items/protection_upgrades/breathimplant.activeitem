@@ -2,15 +2,17 @@
   "itemName" : "breathimplant",
   "rarity" : "Uncommon",
   "category" : "Other",
+  "maxStack" : 1,
   "inventoryIcon" : "breathimplant.png",
-  "image" : "breathimplant.png",
+  "image" : "implantinhand.png",
 
   "shortdescription" : "Breath Implant",
-  "description" : "A device that implants itself in the user's chest when activated, automatically providing breathable air for environments which have ^red;no breathable atmosphere^reset;",
+  "description" : "A device that implants itself in the user's chest to provide breathable air for environments which have ^red;no breathable atmosphere^reset;",
 
   "scripts" : ["/scripts/persistient_protector.lua"],
-//the below thing is wrong somehow, and not because the full path isn't included
+  "useTime" : 0.5,
   "effects" : ["xb_breathprotection"],
+  "animation" : "implant.animation",
 
   "unlockMessage" : "You can now breathe in airless environments."
 }

@@ -1,0 +1,19 @@
+{
+  "itemName" : "coolingimplant",
+  "rarity" : "Legendary",
+  "category" : "Other",
+  "maxStack" : 1,
+  "inventoryIcon" : "coolingimplant.png",
+  "image" : "implantinhand.png",
+
+  "shortdescription" : "Supercooling Implant",
+  "description" : "A cooling loop system designed to quickly dissipate heat away from the user, protecting from ^red;very hot environments^reset;",
+
+  "scripts" : ["/scripts/persistient_protector.lua"],
+  "useTime" : 0.5,
+  "effects" : ["xb_heatprotection"],
+  "animation" : "implant.animation",
+
+  "unlockMessage" : "You are now resistant to very hot environments."
+}
+ 

@@ -1,0 +1,19 @@
+{
+  "itemName" : "radimplant",
+  "rarity" : "Uncommon",
+  "category" : "Other",
+  "maxStack" : 1,
+  "inventoryIcon" : "radimplant.png",
+  "image" : "implantinhand.png",
+
+  "shortdescription" : "Radiation Shielding Implant",
+  "description" : "A device that implants itself in the user's chest to provide protection from ^red;deadly radiation^reset;",
+
+  "scripts" : ["/scripts/persistient_protector.lua"],
+  "useTime" : 0.5,
+  "effects" : ["xb_radprotection"],
+  "animation" : "implant.animation",
+
+  "unlockMessage" : "You are now resistant to radioactive environments."
+}
+ 
