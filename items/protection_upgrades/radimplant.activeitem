@@ -7,7 +7,7 @@
   "image" : "implantinhand.png",
 
   "shortdescription" : "Radiation Shielding Implant",
-  "description" : "A device that implants itself in the user's chest to provide protection from ^red;deadly radiation^reset;",
+  "description" : "A device that implants itself in the user to provide protection from ^red;deadly radiation^reset;",
 
   "scripts" : ["/scripts/persistient_protector.lua"],
   "useTime" : 0.5,

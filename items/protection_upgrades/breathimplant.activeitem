@@ -7,7 +7,7 @@
   "image" : "implantinhand.png",
 
   "shortdescription" : "Breath Implant",
-  "description" : "A device that implants itself in the user's chest to provide breathable air for environments which have ^red;no breathable atmosphere^reset;",
+  "description" : "This device implants itself in the user to provide air for environments which have ^red;no breathable atmosphere^reset;",
 
   "scripts" : ["/scripts/persistient_protector.lua"],
   "useTime" : 0.5,
