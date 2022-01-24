@@ -1,0 +1,19 @@
+{
+  "itemName" : "devimplant",
+  "rarity" : "Common",
+  "category" : "Other",
+  "maxStack" : 1,
+  "inventoryIcon" : "devimplant.png",
+  "image" : "implantinhand.png",
+
+  "shortdescription" : "Dev Implant",
+  "description" : "This implant does everything",
+
+  "scripts" : ["/scripts/persistient_protector.lua"],
+  "useTime" : 0.5,
+  "effects" : ["xb_breathprotection", "xb_radprotection", "xb_coldprotection", "xb_heatprotection"],
+  "animation" : "implant.animation",
+
+  "unlockMessage" : "cum"
+}
+ 

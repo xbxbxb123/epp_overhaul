@@ -1,5 +1,5 @@
 {
-  "name" : "xb_breathprotection",
+  "name" : "xb_heatprotection",
   "effectConfig" : {"stats" : ["biomeheatImmunity"]},
 
   "scripts" : ["/scripts/protection.lua"]

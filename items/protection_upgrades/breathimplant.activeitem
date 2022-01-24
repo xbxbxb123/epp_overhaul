@@ -1,6 +1,6 @@
 {
   "itemName" : "breathimplant",
-  "rarity" : "Uncommon",
+  "rarity" : "Common",
   "category" : "Other",
   "maxStack" : 1,
   "inventoryIcon" : "breathimplant.png",

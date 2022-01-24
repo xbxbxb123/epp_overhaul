@@ -1,5 +1,5 @@
 {
-  "name" : "xb_breathprotection",
+  "name" : "xb_coldprotection",
   "effectConfig" : {"stats" : ["biomecoldImmunity"]},
 
   "scripts" : ["/scripts/protection.lua"]
